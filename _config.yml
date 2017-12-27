@@ -1,0 +1,20 @@
+typography_spectrum: 0.22516014496795833
+color:
+  brandStrength: 0.7173118914943188
+  lightness: 0.9884218433871865
+  saturation: 0.3843099477235228
+  rhythmicContrast: 0.34266724018380046
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+layout_spectrum: 0.3856370598077774
+analytics:
+  google: UA-83613604-1
+name: EXTROPY
+title: EXTROPY ONLINE
+content: []
+description: Your World is on ExO
+github: true
